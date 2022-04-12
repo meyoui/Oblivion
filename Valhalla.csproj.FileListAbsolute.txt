@@ -1,0 +1,15 @@
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\bin\Debug\Valhalla.exe.config
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\bin\Debug\Valhalla.exe
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\bin\Debug\Valhalla.pdb
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Valhalla.csprojAssemblyReference.cache
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Oblivion.Exit1.resources
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Oblivion.Form1.resources
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Oblivion.Login.resources
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Oblivion.Properties.Resources.resources
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Valhalla.csproj.GenerateResource.cache
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Valhalla.csproj.CoreCompileInputs.cache
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Valhalla.csproj.CopyComplete
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Valhalla.exe
+C:\Users\henta\Desktop\Oblivion Ovh Killer\Oblivion\Oblivion\obj\Debug\Valhalla.pdb
